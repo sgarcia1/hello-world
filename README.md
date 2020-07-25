@@ -1,2 +1,3 @@
 # hello-world
-A repository
+
+Im just trying to get into git
